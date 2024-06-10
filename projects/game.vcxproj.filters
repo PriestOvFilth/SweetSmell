@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="code">
+      <UniqueIdentifier>{a1b73ef6-fe5a-4868-874e-01c01b908ac9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shaders">
+      <UniqueIdentifier>{19272f57-91bb-49ce-aaf7-5bb14ea02309}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="code\common">
+      <UniqueIdentifier>{e445a2bf-45dd-48d6-baee-8c29ecfe89e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="code\engine">
+      <UniqueIdentifier>{39b0e5a6-9c4c-467c-a501-a09e45b16160}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="code\game">
+      <UniqueIdentifier>{cac68071-9e4b-474a-b5e0-5cf07794c1c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="code\editor">
+      <UniqueIdentifier>{ab71b0fe-8b8b-4bd0-a813-4070ca0df676}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="code\editor\imgui">
+      <UniqueIdentifier>{261697ae-80c7-4330-9c0d-1144e6f8f59c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\code\common\common.cpp">
+      <Filter>code\common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\code\common\math3d.cpp">
+      <Filter>code\common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\code\engine\billboard.cpp">
+      <Filter>code\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\code\engine\camera.cpp">
+      <Filter>code\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\code\engine\light.cpp">
+      <Filter>code\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\code\engine\particles.cpp">
+      <Filter>code\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\code\engine\posteffect.cpp">
+      <Filter>code\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\code\engine\render.cpp">
+      <Filter>code\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\code\engine\shader.cpp">
+      <Filter>code\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\code\engine\sound.cpp">
+      <Filter>code\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\code\engine\texture.cpp">
+      <Filter>code\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\code\game\component.cpp">
+      <Filter>code\game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\code\game\entity.cpp">
+      <Filter>code\game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\code\game\input.cpp">
+      <Filter>code\game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\code\game\scene.cpp">
+      <Filter>code\game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\code\main.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="..\code\engine\debug.cpp">
+      <Filter>code\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\code\game\physics.cpp">
+      <Filter>code\game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\code\game\player.cpp">
+      <Filter>code\game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\code\engine\resource.cpp">
+      <Filter>code\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\code\engine\mesh.cpp">
+      <Filter>code\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\code\game\level.cpp">
+      <Filter>code\game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\code\editor\imgui\imgui.cpp">
+      <Filter>code\editor\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\code\editor\imgui\imgui_demo.cpp">
+      <Filter>code\editor\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\code\editor\imgui\imgui_draw.cpp">
+      <Filter>code\editor\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\code\editor\leveleditor.cpp">
+      <Filter>code\editor</Filter>
+    </ClCompile>
+    <ClCompile Include="..\code\editor\imgui_impl.cpp">
+      <Filter>code\editor</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\code\common\common.h">
+      <Filter>code\common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\code\common\math3d.h">
+      <Filter>code\common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\code\engine\billboard.h">
+      <Filter>code\engine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\code\engine\camera.h">
+      <Filter>code\engine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\code\engine\light.h">
+      <Filter>code\engine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\code\engine\particles.h">
+      <Filter>code\engine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\code\engine\posteffect.h">
+      <Filter>code\engine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\code\engine\render.h">
+      <Filter>code\engine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\code\engine\shader.h">
+      <Filter>code\engine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\code\engine\sound.h">
+      <Filter>code\engine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\code\engine\texture.h">
+      <Filter>code\engine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\code\game\component.h">
+      <Filter>code\game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\code\game\entity.h">
+      <Filter>code\game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\code\game\input.h">
+      <Filter>code\game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\code\game\scene.h">
+      <Filter>code\game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\code\engine\debug.h">
+      <Filter>code\engine</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="..\code\game\physics.h">
+      <Filter>code\game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\code\game\player.h">
+      <Filter>code\game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\code\engine\resource.h">
+      <Filter>code\engine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\code\engine\mesh.h">
+      <Filter>code\engine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\code\game\level.h">
+      <Filter>code\game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\code\editor\imgui\imconfig.h">
+      <Filter>code\editor\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\code\editor\imgui\imgui.h">
+      <Filter>code\editor\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\code\editor\imgui\imgui_internal.h">
+      <Filter>code\editor\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\code\editor\leveleditor.h">
+      <Filter>code\editor</Filter>
+    </ClInclude>
+    <ClInclude Include="..\code\editor\imgui_impl.h">
+      <Filter>code\editor</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\data\shaders\BasicLit.frag">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="..\data\shaders\BasicLit.vert">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="..\data\shaders\Billboard.frag">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="..\data\shaders\Billboard.geom">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="..\data\shaders\Billboard.vert">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="..\data\shaders\DitherPostEffect.frag">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="..\data\shaders\Particle.frag">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="..\data\shaders\Particle.geom">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="..\data\shaders\Particle.vert">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="..\data\shaders\PixelizePostEffect.frag">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="..\data\shaders\PostEffectPassthrough.vert">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="..\data\shaders\ShadowMap.frag">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="..\data\shaders\ShadowMap.vert">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="..\data\shaders\Skinning.vert">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="..\data\shaders\Skybox.frag">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="..\data\shaders\Skybox.vert">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="..\data\shaders\DebugLinePoint.frag">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="..\data\shaders\DebugLinePoint.vert">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="..\data\shaders\LoadingScreen.frag">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="..\data\shaders\LoadingScreen.vert">
+      <Filter>shaders</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="game.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="SweetSmell.ico" />
+  </ItemGroup>
+</Project>

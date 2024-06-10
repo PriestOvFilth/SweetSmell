@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\work\SweetSmell\external\bullet3\build3\vs2015\CMakeFiles\ddc6c156859f43c2fe837bd58dfee008\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{BF7CF4BE-3FE9-30C5-8F7C-83935069B058}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

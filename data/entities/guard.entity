@@ -1,0 +1,4 @@
+<entity Type="SkeletalMesh" Name="Guard">
+	<mesh File="data/models/boblampclean/boblampclean.md5mesh" CastsShadow="true" AnimToPlay="0" />
+	<collision Shape="Box" BoundingBox="1, 1, 1" />
+</entity>

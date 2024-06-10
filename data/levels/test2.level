@@ -1,0 +1,9 @@
+<scene>
+	<fog FogEnabled="false" FogDistance="0" FogColor="0, 0, 0" />
+	<ambient Enabled="true" Color="1, 1, 1" AmbInt="1" />
+	<skybox SkyboxEnabled="true" SkyboxDirectory="data/textures/skybox/" SkyboxPosX="sp3right.jpg" SkyboxNegX="sp3left.jpg" SkyboxPosY="sp3top.jpg" SkyboxNegY="sp3bot.jpg" SkyboxPosZ="sp3front.jpg" SkyboxNegZ="sp3back.jpg" />
+	<physics WorldSize="1000" />
+	<entities>
+		<entity Class="SkeletalMeshEntity" Position="0, 0, 0" Rotation="270, 90, 0" Scale="0.06, 0.06, 0.06" EntityDef="data/entities/guard.entity" />
+	</entities>
+</scene>

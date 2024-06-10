@@ -1,0 +1,4 @@
+<entity Type="StaticMesh" Name="Sponza">
+	<mesh File="data/models/dabrovic-sponza/sponza.dae" CastsShadow="false" />
+	<collision Shape="Plane" BoundingBox="20, 0.05, 15" />
+</entity>

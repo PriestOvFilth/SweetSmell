@@ -1,0 +1,4 @@
+﻿  Building Custom Rule D:/work/SweetSmell/external/tinyxml2/CMakeLists.txt
+  CMake does not need to re-run because D:/work/SweetSmell/external/tinyxml2/build/CMakeFiles/generate.stamp is up-to-date.
+  tinyxml2.cpp
+  tinyxml2_static.vcxproj -> D:\work\SweetSmell\external\tinyxml2\build\Release\tinyxml2.lib

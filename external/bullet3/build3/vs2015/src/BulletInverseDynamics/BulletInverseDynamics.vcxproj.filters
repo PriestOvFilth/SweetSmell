@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\work\SweetSmell\external\bullet3\src\BulletInverseDynamics\IDMath.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\work\SweetSmell\external\bullet3\src\BulletInverseDynamics\MultiBodyTree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\work\SweetSmell\external\bullet3\src\BulletInverseDynamics\details\MultiBodyTreeInitCache.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\work\SweetSmell\external\bullet3\src\BulletInverseDynamics\details\MultiBodyTreeImpl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\work\SweetSmell\external\bullet3\src\BulletInverseDynamics\IDConfig.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\work\SweetSmell\external\bullet3\src\BulletInverseDynamics\IDConfigEigen.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\work\SweetSmell\external\bullet3\src\BulletInverseDynamics\IDMath.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\work\SweetSmell\external\bullet3\src\BulletInverseDynamics\IDConfigBuiltin.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\work\SweetSmell\external\bullet3\src\BulletInverseDynamics\IDErrorMessages.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\work\SweetSmell\external\bullet3\src\BulletInverseDynamics\MultiBodyTree.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\work\SweetSmell\external\bullet3\src\BulletInverseDynamics\details\IDEigenInterface.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\work\SweetSmell\external\bullet3\src\BulletInverseDynamics\details\IDMatVec.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\work\SweetSmell\external\bullet3\src\BulletInverseDynamics\details\IDLinearMathInterface.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\work\SweetSmell\external\bullet3\src\BulletInverseDynamics\details\MultiBodyTreeImpl.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\work\SweetSmell\external\bullet3\src\BulletInverseDynamics\details\MultiBodyTreeInitCache.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\work\SweetSmell\external\bullet3\src\BulletInverseDynamics\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3D9C9753-D82C-39B6-BA03-A549A81A6112}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{B4C28A6C-384A-3BCE-9A17-D6B0A2BD0E8C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

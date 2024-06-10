@@ -1,0 +1,13 @@
+﻿  Building Custom Rule D:/work/SweetSmell/external/bullet3/src/BulletSoftBody/CMakeLists.txt
+  CMake does not need to re-run because D:/work/SweetSmell/external/bullet3/build3/vs2015/src/BulletSoftBody/CMakeFiles/generate.stamp is up-to-date.
+  btSoftBody.cpp
+  btSoftBodyConcaveCollisionAlgorithm.cpp
+  btSoftBodyHelpers.cpp
+  btSoftBodyRigidBodyCollisionConfiguration.cpp
+  btSoftRigidCollisionAlgorithm.cpp
+  btSoftRigidDynamicsWorld.cpp
+  btSoftMultiBodyDynamicsWorld.cpp
+  btSoftSoftCollisionAlgorithm.cpp
+  btDefaultSoftBodySolver.cpp
+  Generating Code...
+  BulletSoftBody.vcxproj -> D:\work\SweetSmell\external\bullet3\build3\vs2015\lib\Debug\BulletSoftBody_Debug.lib

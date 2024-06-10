@@ -1,0 +1,16 @@
+D:/work/SweetSmell/external/bullet3/build3/vs2015/CMakeFiles/INSTALL.dir
+D:/work/SweetSmell/external/bullet3/build3/vs2015/CMakeFiles/ALL_BUILD.dir
+D:/work/SweetSmell/external/bullet3/build3/vs2015/CMakeFiles/ZERO_CHECK.dir
+D:/work/SweetSmell/external/bullet3/build3/vs2015/src/CMakeFiles/INSTALL.dir
+D:/work/SweetSmell/external/bullet3/build3/vs2015/src/BulletInverseDynamics/CMakeFiles/BulletInverseDynamics.dir
+D:/work/SweetSmell/external/bullet3/build3/vs2015/src/BulletInverseDynamics/CMakeFiles/INSTALL.dir
+D:/work/SweetSmell/external/bullet3/build3/vs2015/src/BulletSoftBody/CMakeFiles/BulletSoftBody.dir
+D:/work/SweetSmell/external/bullet3/build3/vs2015/src/BulletSoftBody/CMakeFiles/INSTALL.dir
+D:/work/SweetSmell/external/bullet3/build3/vs2015/src/BulletCollision/CMakeFiles/BulletCollision.dir
+D:/work/SweetSmell/external/bullet3/build3/vs2015/src/BulletCollision/CMakeFiles/INSTALL.dir
+D:/work/SweetSmell/external/bullet3/build3/vs2015/src/BulletDynamics/CMakeFiles/BulletDynamics.dir
+D:/work/SweetSmell/external/bullet3/build3/vs2015/src/BulletDynamics/CMakeFiles/INSTALL.dir
+D:/work/SweetSmell/external/bullet3/build3/vs2015/src/LinearMath/CMakeFiles/LinearMath.dir
+D:/work/SweetSmell/external/bullet3/build3/vs2015/src/LinearMath/CMakeFiles/INSTALL.dir
+D:/work/SweetSmell/external/bullet3/build3/vs2015/src/Bullet3Common/CMakeFiles/Bullet3Common.dir
+D:/work/SweetSmell/external/bullet3/build3/vs2015/src/Bullet3Common/CMakeFiles/INSTALL.dir

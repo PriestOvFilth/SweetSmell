@@ -1,0 +1,4 @@
+﻿  Building Custom Rule D:/work/SweetSmell/external/assimp-4.1.0/contrib/irrXML/CMakeLists.txt
+  CMake does not need to re-run because D:/work/SweetSmell/external/assimp-4.1.0/contrib/irrXML/CMakeFiles/generate.stamp is up-to-date.
+  irrXML.cpp
+  IrrXML.vcxproj -> D:\work\SweetSmell\external\assimp-4.1.0\lib\Release\IrrXML.lib
